@@ -16,7 +16,7 @@ You need to enter the X (Twitter) credentials into the Supabase Dashboard, NOT i
 
 1.  Go to your [Supabase Dashboard](https://supabase.com/dashboard/project/YOUR_PROJECT_ID/auth/providers).
 2.  Navigate to **Authentication** -> **Providers**.
-3.  Expand **X / Twitter (OAuth 2.0)** (recommended) or **Twitter**.
+3.  Expand **X / Twitter (OAuth 2.0)**.
 4.  Enable the provider.
 5.  Enter your X/Twitter OAuth 2.0 credentials:
     *   **Client ID**: `YOUR_X_CLIENT_ID`
